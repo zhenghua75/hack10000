@@ -1,0 +1,30 @@
+{
+  "name": "hack10000",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.6",
+    "events": "^1.1.0",
+    "flux": "^2.1.1",
+    "keymirror": "^0.1.1",
+    "react-native": "^0.17.0",
+    "react-native-android-tablayout": "0.0.6",
+    "react-native-asset-library-to-base64": "^1.0.1",
+    "react-native-barcodescanner": "^0.1.4",
+    "react-native-camera": "^0.3.8",
+    "react-native-date": "^1.0.2",
+    "react-native-gifted-listview": "0.0.10",
+    "react-native-htmlview": "^0.2.0",
+    "react-native-image-picker": "^0.13.4",
+    "react-native-modalbox": "^1.2.6",
+    "react-native-picker-android": "^0.3.8",
+    "react-native-pull-to-refresh": "^1.0.2",
+    "react-native-refresh-infinite-listview": "^1.0.2",
+    "react-native-tabs": "^0.1.10",
+    "react-native-viewpager": "^0.1.6",
+    "react-native-webview-android": "^1.0.12"
+  }
+}
